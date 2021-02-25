@@ -1,0 +1,909 @@
+[{
+  "_id": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "Etunimi": "Alvar",
+  "Sukunimi": "Gullichsen",
+  "createdAt": {
+    "$date": "2020-09-13T22:34:08.802Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T23:58:46.144Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "Teokset": [
+    {
+      "$oid": "5f5e9efafb8f29784608bbad"
+    },
+    {
+      "$oid": "5f5e9faafb8f29784608bbae"
+    },
+    {
+      "$oid": "5f5ea3bb271cb47961a394d6"
+    }
+  ],
+  "Aakkostus": "Gullichsen",
+  "Nimi": "Alvar Gullichsen",
+  "esittely": "Alvar Gullichsen on Suomen taiteessa ilmiö. Hänellä on sekä ideoita että taito varioida itseään ja ympäröivää yhteiskuntaa. Hänen töissään mielikuvitus ja todellisuus näyttävät pitkää nenää toisilleen.",
+  "syntymavuosi": 1961
+},{
+  "_id": {
+    "$oid": "5f5e9e98fb8f29784608bbac"
+  },
+  "Etunimi": "Bruno",
+  "Sukunimi": "Maximus",
+  "createdAt": {
+    "$date": "2020-09-13T22:35:04.383Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:06:28.710Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "Teokset": [
+    {
+      "$oid": "5f5ea450271cb47961a394d7"
+    },
+    {
+      "$oid": "5f5ea525271cb47961a394d8"
+    }
+  ],
+  "Aakkostus": "Maximus",
+  "Nimi": "Bruno Maximus",
+  "esittely": "Taiteilija on syntynyt Jyväskylässä, mutta asunut ja työskennellyt eri puolilla maailmaa, mm. Englannissa, Meksikossa ja Brasiliassa. Tyylisuuntaansa hän kutsuu hyperrealismiksi. Näyttelyitä vuodesta 1992 alkaen.",
+  "syntymavuosi": 1970
+},{
+  "_id": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "Teokset": [],
+  "Etunimi": "Emmi",
+  "Sukunimi": "Vuorinen",
+  "createdAt": {
+    "$date": "2020-09-13T23:05:33.889Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:07:18.592Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "Aakkostus": "Vuorinen",
+  "Nimi": "Emmi Vuorinen",
+  "esittely": "Emmi Vuorinen on monipuolinen kuvataiteilija, joka on viime vuosina keskittynyt grafiikkaan. Hän käyttää grafiikassaan useita menetelmiä, ja hänen työnsä ovat tunnelmaltaan ajattomia, intensiivisiä ja hetkessä kiinni. Useita ryhmänäyttelyitä vuodesta 1979 ja yksityisnäyttelyitä vuodesta 1999 lähtien.",
+  "syntymavuosi": 1948
+},{
+  "_id": {
+    "$oid": "5f5ea931f5cef979d414cfdf"
+  },
+  "Teokset": [],
+  "Nimi": "Esa Riippa",
+  "Aakkostus": "Riippa",
+  "createdAt": {
+    "$date": "2020-09-13T23:20:17.273Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:08:06.660Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Esa Riippa edustaa perinteistä taidegrafiikkaa. Hänen työnsä on usein salaperäistä surrealismia, värillisiä vedoksia muutamalla laatalla, joissa etsaus yhdistyy akvatintaan. Palkittu graafikko on pitänyt useita yksityisnäyttelyitä ja on edustettuna useissa kokoelmissa kotimaassa ja ulkomailla."
+},{
+  "_id": {
+    "$oid": "5f5eab40f5cef979d414cfe1"
+  },
+  "Teokset": [],
+  "Nimi": "Esko Railo",
+  "Aakkostus": "Railo",
+  "createdAt": {
+    "$date": "2020-09-13T23:29:04.098Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:09:00.499Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Esko Railo on kankaanpään taidekoulusta vuonna 1986 valmistunut taidegraafikko, jonka töitä on nähty lukuissa näyttelyissä kotimaassa ja muualla Euroopassa. Railon töitä on useissa julkisissa kokoelmissa ja mm. valtion kokoelmissa.",
+  "syntymavuosi": 1961
+},{
+  "_id": {
+    "$oid": "5f5eab8ff5cef979d414cfe3"
+  },
+  "Teokset": [],
+  "Nimi": "Göran Augustson",
+  "Aakkostus": "Augustson",
+  "createdAt": {
+    "$date": "2020-09-13T23:30:23.701Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:09:49.776Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Göran Augustson on San Vannin perillisiä, konstruktivisti, jolle suora viiva, selkeys ja järjestys ovat ominaisia.",
+  "syntymavuosi": 1936
+},{
+  "_id": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "Teokset": [],
+  "Nimi": "Seppo Polameri",
+  "Aakkostus": "Polameri",
+  "createdAt": {
+    "$date": "2020-09-21T12:03:06.638Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:27:21.769Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Kuvittaja sekä graafinen taiteilija Seppo Polameri on tunnetuimpia luonnonkuvaajiamme. Hänet on usein palkittu kuvituksistaan ja muista graafisista töistään. Hänen töitään on ollut esillä useissa näyttelyissä Suomessa ja ulkomailla.",
+  "syntymavuosi": 1936
+},{
+  "_id": {
+    "$oid": "5f6896afe380b82d111d51f7"
+  },
+  "Teokset": [],
+  "Nimi": "Kaarina Kaila",
+  "Aakkostus": "Kaila",
+  "createdAt": {
+    "$date": "2020-09-21T12:03:59.188Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:13:01.047Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Kaarina Kaila on etenkin kuvituksistaan ja renesanssin aiheista vaikutuksia saanut taidemaalari. Yksityisnäyttelyitä vuodesta 1971 alkaen. Kaarina Kaila työskentelee osan vuodesta Venetsiassa.",
+  "syntymavuosi": 1941
+},{
+  "_id": {
+    "$oid": "5f6896cae380b82d111d51f8"
+  },
+  "Teokset": [],
+  "Nimi": "Tiina Kivinen",
+  "Aakkostus": "Kivinen",
+  "createdAt": {
+    "$date": "2020-09-21T12:04:26.961Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:29:27.879Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Tiina Kivinen on metalligrafiikkaan erikoistunut nuori taiteilija. Vedoksissaan hän käyttää mezzotinto-tekniikkaa, jolla hän saa aikaan syvän, sametinpehmeän mustan sävyn. Lukuisia yksityis-ja yhteisnäyttelyitä.",
+  "syntymavuosi": 1971
+},{
+  "_id": {
+    "$oid": "5f6896e5e380b82d111d51f9"
+  },
+  "Teokset": [],
+  "Nimi": "Kaisu Sirviö",
+  "Aakkostus": "Sirviö",
+  "createdAt": {
+    "$date": "2020-09-21T12:04:53.921Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:13:59.364Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Kaisu Sirviö on helsinkiläinen taidegraafikko. Hänen välineensä on kivilitografia, teknisesti vaativa ja työläs menetelmä. Taiteilijaa kiehtoo litografiassa valöörien rikkaus. Kaisu Sirviön kädenjälki on hyvin maalauksellista, hän luottaa välineensä mahtavaan sävykirjoon."
+},{
+  "_id": {
+    "$oid": "5f689709e380b82d111d51fa"
+  },
+  "Teokset": [],
+  "Nimi": "Päivi Paunu",
+  "Aakkostus": "Paunu",
+  "createdAt": {
+    "$date": "2020-09-21T12:05:29.647Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:05:29.658Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689739e380b82d111d51fb"
+  },
+  "Teokset": [],
+  "Nimi": "Päivi Lempinen",
+  "Aakkostus": "Lempinen",
+  "createdAt": {
+    "$date": "2020-09-21T12:06:17.432Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-18T00:32:27.338Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f689751e380b82d111d51fc"
+  },
+  "Teokset": [],
+  "Nimi": "Onerva Karlsson",
+  "Aakkostus": "Karlsson",
+  "createdAt": {
+    "$date": "2020-09-21T12:06:41.429Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:06:41.439Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f68976ae380b82d111d51fd"
+  },
+  "Teokset": [],
+  "Nimi": "Anne Marmonnier",
+  "Aakkostus": "Marmonnier",
+  "createdAt": {
+    "$date": "2020-09-21T12:07:06.387Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:07:06.398Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689786e380b82d111d51fe"
+  },
+  "Teokset": [],
+  "Nimi": "Johanna Koistinen",
+  "Aakkostus": "Koistinen",
+  "createdAt": {
+    "$date": "2020-09-21T12:07:34.189Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:12:11.764Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Johanna Koistinen on tunnettu ja arvostettu graafikko, jonka töitä on ollut näyttelyissä v. 1982 alkaen. Taiteilijalle ominaisia ovat kasvi- ja käsiteemat, jotka toistuvat hänen aiheissaan. Lukuisia yksityis- ja yhteisnäyttelyitä. Teoksia kokoelmissa Suomessa ja ulkomailla.",
+  "syntymavuosi": 1956
+},{
+  "_id": {
+    "$oid": "5f6897d8e380b82d111d51ff"
+  },
+  "Teokset": [],
+  "Nimi": "Päivi Somppi",
+  "Aakkostus": "Somppi",
+  "createdAt": {
+    "$date": "2020-09-21T12:08:56.061Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:25:52.793Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Graafikko Päivi Somppi tunnetaan myyttisistä aiheistaan. Hänen lähtökohtanaan ovat usein muinaisen Egyptin ja antiikin Kreikan tarut. Näyttelyitä vuodesta 1995.",
+  "syntymavuosi": 1973
+},{
+  "_id": {
+    "$oid": "5f6897ebe380b82d111d5200"
+  },
+  "Teokset": [],
+  "Nimi": "Kaj Stenvall",
+  "Aakkostus": "Stenvall",
+  "createdAt": {
+    "$date": "2020-09-21T12:09:15.920Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:14:52.963Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Taiteilija tunnetaan erityisesti ankkateoksistaan, jotka ovat saaneet runsaasti tunnustusta eri puolilla maailmaa. Stenvallin töitä on ollut esillä vuodesta 1972 ja niitä on kaikissa huomattavissa kokoelmissa mm. Kiasmassa, Wäinö Aaltosen museossa ja Helsingin kaupungin Taidemuseossa.",
+  "syntymavuosi": 1951
+},{
+  "_id": {
+    "$oid": "5f6897fde380b82d111d5201"
+  },
+  "Teokset": [],
+  "Nimi": "Tapani Mikkonen",
+  "Aakkostus": "Mikkonen",
+  "createdAt": {
+    "$date": "2020-09-21T12:09:33.869Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:28:53.334Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Tapani Mikkonen on puhdasverinen graafikko niin ilmaisultaan kuin tekniikaltaan. Mikkonen on moneen kertaan palkittu taiteilija, jonka töitä on esillä merkittävissä suomalaisissa museoissa. Hän on osallistunut lukuisiin näyttelyihin niin Suomessa kuin ulkomailla."
+},{
+  "_id": {
+    "$oid": "5f689816e380b82d111d5202"
+  },
+  "Teokset": [],
+  "Nimi": "Vappu Johansson",
+  "Aakkostus": "Johansson",
+  "createdAt": {
+    "$date": "2020-09-21T12:09:58.680Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:09:58.691Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689845e380b82d111d5203"
+  },
+  "Teokset": [],
+  "Nimi": "Maartit Kontiainen",
+  "Aakkostus": "Kontiainen",
+  "createdAt": {
+    "$date": "2020-09-21T12:10:45.227Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:10:45.239Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f6898c5e380b82d111d5205"
+  },
+  "Teokset": [],
+  "Nimi": "Mia Bergqvist",
+  "Aakkostus": "Bergqvist",
+  "createdAt": {
+    "$date": "2020-09-21T12:12:53.771Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:21:42.395Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Lämminhenkisistä töistään tunnettu nuoren polven taidemaalari on naivistisen tyylisuunnan edustaja. Seikkailevaksi uneksijaksi itseään luonnehtiva taiteilija on osallistunut lukuisiin naivistitaiteilijoiden näyttelyihin, kuten Naivistit Iittalassa-näyttelyyn.",
+  "syntymavuosi": 1974
+},{
+  "_id": {
+    "$oid": "5f6898dbe380b82d111d5206"
+  },
+  "Teokset": [],
+  "Nimi": "Clyv",
+  "Aakkostus": "Clyv",
+  "createdAt": {
+    "$date": "2020-09-21T12:13:15.397Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:13:15.411Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "Teokset": [],
+  "Nimi": "Pauli Vuorisalo",
+  "Aakkostus": "Vuorisalo",
+  "createdAt": {
+    "$date": "2020-09-21T12:13:38.253Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:23:28.916Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Arvostettu monipuolinen taiteilija, jonka töitä on ollut ensi kertaa esillä v. 1962. Hänen töitään on useissa kokoelmissa ja museoissa Suomessa ja ulkomailla.",
+  "syntymavuosi": 1944
+},{
+  "_id": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "Teokset": [],
+  "Nimi": "Pekka Vuori",
+  "Aakkostus": "Vuori",
+  "createdAt": {
+    "$date": "2020-09-21T12:13:54.308Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:24:12.017Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Tunnettu graafikkona ja kirjojen ja lehtien kuvittajana. Taiteilija kuvittaa mm. Helsingin Sanomia. Palkittu Rudolf Koivu -palkinnolla, valittu vuoden graafikoksi jne.",
+  "syntymavuosi": 1935
+},{
+  "_id": {
+    "$oid": "5f689914e380b82d111d5209"
+  },
+  "Teokset": [],
+  "Nimi": "Leena Airikkala",
+  "Aakkostus": "Airikkala",
+  "createdAt": {
+    "$date": "2020-09-21T12:14:12.501Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:18:32.766Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Leena Airikkala on helsinkiläinen graafikko, joka tunnetaan elämänmyönteisistä, kasveja ja arjen esineitä kuvaavista maalauksistaan. Taiteilijalla on ollut useita yksityis- ja yhteisnäyttelyitä Suomessa ja ulkomailla.",
+  "syntymavuosi": 1953
+},{
+  "_id": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "Teokset": [],
+  "Nimi": "Tuula Lappalainen",
+  "Aakkostus": "Lappalainen",
+  "createdAt": {
+    "$date": "2020-09-21T12:14:30.843Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:14:30.853Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "Teokset": [],
+  "Nimi": "Lauri Laine",
+  "Aakkostus": "Laine",
+  "createdAt": {
+    "$date": "2020-09-21T12:14:47.179Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:14:47.190Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689947e380b82d111d520c"
+  },
+  "Teokset": [],
+  "Nimi": "Juhana Blomstedt",
+  "Aakkostus": "Blomstedt",
+  "createdAt": {
+    "$date": "2020-09-21T12:15:03.351Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:15:03.363Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689959e380b82d111d520d"
+  },
+  "Teokset": [],
+  "Nimi": "Kirsi Neuvonen",
+  "Aakkostus": "Neuvonen",
+  "createdAt": {
+    "$date": "2020-09-21T12:15:21.023Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:15:21.033Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "Teokset": [],
+  "Nimi": "Hannu Väisänen",
+  "Aakkostus": "Väisänen",
+  "createdAt": {
+    "$date": "2020-09-21T12:15:42.936Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:10:57.921Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Hannu Väisänen on tunnetuimpia nykytaiteilijoitamme. Hän on taiteen moniottelija, kuvataiteilija, runoilija ja lavastaja. Hannu Väisäsen töitä on useiden taidemuseoiden kokoelmissa ja lukuisissa yksityisnäyttelyissä.",
+  "syntymavuosi": 1951
+},{
+  "_id": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "Teokset": [],
+  "Nimi": "Pentti Koivikko",
+  "Aakkostus": "Koivikko",
+  "createdAt": {
+    "$date": "2020-09-21T12:16:05.304Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:24:56.760Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "esittely": "Tunnettu taidemaalari, piirtäjä ja graafikko, jonka teoksia on lukuisissa taidemuseoissa ja kokoelmissa Suomessa ja ulkomailla.",
+  "syntymavuosi": 1944
+},{
+  "_id": {
+    "$oid": "5f689996e380b82d111d5210"
+  },
+  "Teokset": [],
+  "Nimi": "Anu Juurak",
+  "Aakkostus": "Juurak",
+  "createdAt": {
+    "$date": "2020-09-21T12:16:22.115Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:16:22.126Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "Teokset": [],
+  "Nimi": "Urpo Huhtanen",
+  "Aakkostus": "Huhtanen",
+  "createdAt": {
+    "$date": "2020-09-21T12:16:50.773Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:16:50.786Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f6899f6e380b82d111d5212"
+  },
+  "Teokset": [],
+  "Nimi": "Tapani Kiippa",
+  "Aakkostus": "Kiippa",
+  "createdAt": {
+    "$date": "2020-09-21T12:17:58.809Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:17:58.820Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689a0de380b82d111d5213"
+  },
+  "Teokset": [],
+  "Nimi": "Juha Soisalo",
+  "Aakkostus": "Soisalo",
+  "createdAt": {
+    "$date": "2020-09-21T12:18:21.765Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:18:21.776Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689a22e380b82d111d5214"
+  },
+  "Teokset": [],
+  "Nimi": "Marie Para",
+  "Aakkostus": "Para",
+  "createdAt": {
+    "$date": "2020-09-21T12:18:42.051Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:18:42.090Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f689a36e380b82d111d5215"
+  },
+  "Teokset": [],
+  "Nimi": "Michel Dumontet",
+  "Aakkostus": "Dumontet",
+  "createdAt": {
+    "$date": "2020-09-21T12:19:02.745Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-21T12:19:02.756Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7236706ed38803f5d48672"
+  },
+  "Teokset": [],
+  "Nimi": "Kuutti Lavonen",
+  "Aakkostus": "Lavonen",
+  "esittely": "Kuutti Lavonen on yksi tunnetuimpia nykytaiteilijoitamme. Hänet tunnetaan monipuolisena maalarina, graafikkona ja kirjoittajana. Lisäksi hän on vaikuttanut taide-elämäämme opettajana Kuvataideakatemiassa. Hänen töitään on johtavissa museoissa ja kokoelmissa. Lukuisia yksityis- ja yhteisnäyttelyitä vuodesta 1980.",
+  "syntymavuosi": 1960,
+  "createdAt": {
+    "$date": "2020-09-28T19:16:00.314Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:16:00.507Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f72374c6ed38803f5d48673"
+  },
+  "Teokset": [],
+  "syntymavuosi": 1974,
+  "Nimi": "Maria Mughal",
+  "Aakkostus": "Mughal",
+  "esittely": "Maria Mughal on pakistanilais-suomalainen taidemaalari ja taiteen maisteri (2004). Hänen taiteessaan vuorottelevat rationaalisuus ja mystiikka, uni ja valve. Ympyrä- ja kasvikuviot kuvastavat elämän jatkuvuutta ja jatkuvaa liikettä. Taiteilijalla on ollut useita yksityis- ja yhteisnäyttelyitä vuodesta 2000 lähtien.",
+  "createdAt": {
+    "$date": "2020-09-28T19:19:40.248Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:19:40.357Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f7238f16ed38803f5d48674"
+  },
+  "Teokset": [],
+  "Nimi": "Sari Bremer",
+  "Aakkostus": "Bremer",
+  "syntymavuosi": 1976,
+  "esittely": "Sari Bremer on valmistunut v. 2000 kuvataiteen maisteriksi Kuvataideakatemian grafiikan laitokselta. Hän on opiskellut myös ulkomailla mm. Ranskassa ja Irlannissa. Lukuisia yksityis-ja yhteisnäyttelyitä vuodesta 1997.",
+  "createdAt": {
+    "$date": "2020-09-28T19:26:41.605Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:26:41.725Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f7239576ed38803f5d48675"
+  },
+  "Teokset": [],
+  "Nimi": "Seppo Tamminen",
+  "Aakkostus": "Tamminen",
+  "syntymavuosi": 1944,
+  "esittely": "Seppo Tamminen on vaikuttanut suomalaisessa taidemaailmassa 1960-luvun puolivälistä lähtien; ensin menestyvänä koruntekijänä, sitten menestyvänä maalarina.",
+  "createdAt": {
+    "$date": "2020-09-28T19:28:23.075Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-28T19:28:23.186Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f7afb532adb35056c787598"
+  },
+  "Teokset": [],
+  "Nimi": "Jade Woods",
+  "Aakkostus": "Woods",
+  "createdAt": {
+    "$date": "2020-10-05T10:54:11.714Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T10:54:11.737Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+}]

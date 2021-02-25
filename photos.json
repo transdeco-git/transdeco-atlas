@@ -1,0 +1,495 @@
+[{
+  "_id": {
+    "$oid": "5f88a88759c2590335361052"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00256",
+  "createdAt": {
+    "$date": "2020-10-15T19:52:39.678Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:55:37.194Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a96959c2590335361054"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00257",
+  "createdAt": {
+    "$date": "2020-10-15T19:56:25.244Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:56:25.356Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a97359c2590335361055"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00258_07_1024.jpg",
+  "createdAt": {
+    "$date": "2020-10-15T19:56:35.510Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-05T01:00:29.984Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a97e59c2590335361056"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00259",
+  "createdAt": {
+    "$date": "2020-10-15T19:56:46.319Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:56:46.422Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a98959c2590335361057"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00260",
+  "createdAt": {
+    "$date": "2020-10-15T19:56:57.424Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:56:57.521Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a99f59c2590335361058"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00261",
+  "createdAt": {
+    "$date": "2020-10-15T19:57:19.728Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:57:19.834Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9aa59c2590335361059"
+  },
+  "kuvataan_uudelleen": true,
+  "tiedostonimi": "DSC00262",
+  "createdAt": {
+    "$date": "2020-10-15T19:57:30.430Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:19:44.644Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9b559c259033536105a"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00263",
+  "createdAt": {
+    "$date": "2020-10-15T19:57:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:57:41.111Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9be59c259033536105b"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00264",
+  "createdAt": {
+    "$date": "2020-10-15T19:57:50.380Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:57:50.475Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9c859c259033536105c"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00265",
+  "createdAt": {
+    "$date": "2020-10-15T19:58:00.251Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:58:00.364Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9ed59c259033536105d"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00266",
+  "createdAt": {
+    "$date": "2020-10-15T19:58:37.882Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:58:37.978Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88a9f859c259033536105e"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00267",
+  "createdAt": {
+    "$date": "2020-10-15T19:58:48.099Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:58:48.211Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa0159c259033536105f"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00268",
+  "createdAt": {
+    "$date": "2020-10-15T19:58:57.883Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:58:57.988Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa0c59c2590335361060"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00269",
+  "createdAt": {
+    "$date": "2020-10-15T19:59:08.319Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:59:08.413Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa4759c2590335361061"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00270",
+  "createdAt": {
+    "$date": "2020-10-15T20:00:07.550Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:00:07.653Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa5059c2590335361062"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00271",
+  "createdAt": {
+    "$date": "2020-10-15T20:00:16.394Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:00:16.506Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa5959c2590335361063"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00272",
+  "createdAt": {
+    "$date": "2020-10-15T20:00:25.652Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:00:25.762Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88aa6359c2590335361064"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00273",
+  "createdAt": {
+    "$date": "2020-10-15T20:00:35.521Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:00:35.632Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab0559c2590335361065"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00274",
+  "createdAt": {
+    "$date": "2020-10-15T20:03:17.228Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:03:17.450Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab1459c2590335361066"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00275",
+  "createdAt": {
+    "$date": "2020-10-15T20:03:32.735Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:03:32.844Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab2159c2590335361067"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00276",
+  "createdAt": {
+    "$date": "2020-10-15T20:03:45.705Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:03:45.923Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab2b59c2590335361068"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00277",
+  "createdAt": {
+    "$date": "2020-10-15T20:03:55.436Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:03:55.540Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab3459c2590335361069"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00278",
+  "createdAt": {
+    "$date": "2020-10-15T20:04:04.719Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:04:05.036Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ab3f59c259033536106a"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00279",
+  "createdAt": {
+    "$date": "2020-10-15T20:04:15.239Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:04:15.426Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88ae0b59c259033536106b"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00280",
+  "createdAt": {
+    "$date": "2020-10-15T20:16:11.500Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T20:16:11.599Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f88c9c128ebd026f8500c58"
+  },
+  "kuvataan_uudelleen": false,
+  "tiedostonimi": "DSC00280",
+  "createdAt": {
+    "$date": "2020-10-15T22:14:25.247Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T22:14:25.276Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+}]
