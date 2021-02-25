@@ -1,0 +1,5228 @@
+[{
+  "_id": {
+    "$oid": "5f5e9efafb8f29784608bbad"
+  },
+  "title": "Gullichsen",
+  "tuotenumero": 0,
+  "createdAt": {
+    "$date": "2020-09-13T22:36:42.352Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:48:18.135Z"
+  },
+  "__v": 0,
+  "artist": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "teosnimi": "Limakärsä",
+  "nayttokuva": [],
+  "hinta": 350,
+  "korkeus": 73,
+  "leveys": 53,
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100
+},{
+  "_id": {
+    "$oid": "5f5e9faafb8f29784608bbae"
+  },
+  "tuotenumero": 0,
+  "title": "Gullichsen",
+  "createdAt": {
+    "$date": "2020-09-13T22:39:38.718Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:49:09Z"
+  },
+  "__v": 0,
+  "artist": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "teosnimi": "Töpseli",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787533"
+    }
+  ],
+  "hinta": 350,
+  "korkeus": 73,
+  "leveys": 53,
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100
+},{
+  "_id": {
+    "$oid": "5f5ea3bb271cb47961a394d6"
+  },
+  "tuotenumero": 0,
+  "title": "Gullichsen",
+  "createdAt": {
+    "$date": "2020-09-13T22:56:59.092Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:49:34.202Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5e9e60fb8f29784608bbab"
+  },
+  "teosnimi": "Pärre Bonk",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78753b"
+    }
+  ],
+  "hinta": 350,
+  "korkeus": 73,
+  "leveys": 53,
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100
+},{
+  "_id": {
+    "$oid": "5f5ea450271cb47961a394d7"
+  },
+  "tuotenumero": 0,
+  "title": "Maximus",
+  "createdAt": {
+    "$date": "2020-09-13T22:59:28.156Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:52:49.505Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5e9e98fb8f29784608bbac"
+  },
+  "teosnimi": "Bussijuoksu",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787541"
+    }
+  ],
+  "hinta": 250,
+  "korkeus": 52,
+  "leveys": 65,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2000",
+  "vedosmaara": 175
+},{
+  "_id": {
+    "$oid": "5f5ea525271cb47961a394d8"
+  },
+  "tuotenumero": 0,
+  "title": "Maximus",
+  "createdAt": {
+    "$date": "2020-09-13T23:03:01.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:55:09.544Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5e9e98fb8f29784608bbac"
+  },
+  "teosnimi": "Polkupyöräilijän kahvila",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787519"
+    }
+  ],
+  "hinta": 200,
+  "korkeus": 48,
+  "leveys": 42,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2000",
+  "vedosmaara": 100
+},{
+  "_id": {
+    "$oid": "5f5ea956f5cef979d414cfe0"
+  },
+  "tuotenumero": 0,
+  "title": "Riippa",
+  "createdAt": {
+    "$date": "2020-09-13T23:20:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T09:59:43.487Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea931f5cef979d414cfdf"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "teosnimi": "Kimppu",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787513"
+    }
+  ],
+  "hinta": 380,
+  "korkeus": 40,
+  "leveys": 54,
+  "tekniikka": "Viivasyövytys-akvatinta",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 75
+},{
+  "_id": {
+    "$oid": "5f5eab69f5cef979d414cfe2"
+  },
+  "tuotenumero": 0,
+  "title": "Railo",
+  "createdAt": {
+    "$date": "2020-09-13T23:29:45.850Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T12:01:45.374Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5eab40f5cef979d414cfe1"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "teosnimi": "Taivaanvuohi paatilla",
+  "nayttokuva": [
+    {
+      "$oid": "5f86e7052adb35056c7875ba"
+    }
+  ],
+  "hinta": 310,
+  "korkeus": 40,
+  "leveys": 54,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 100
+},{
+  "_id": {
+    "$oid": "5f5eabbef5cef979d414cfe4"
+  },
+  "tuotenumero": 0,
+  "title": "Augustson",
+  "createdAt": {
+    "$date": "2020-09-13T23:31:10.024Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:07:22.300Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5eab8ff5cef979d414cfe3"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "teosnimi": "Syysleikki 1",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78752b"
+    }
+  ],
+  "hinta": 330,
+  "korkeus": 40,
+  "leveys": 33,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1991",
+  "vedosmaara": 99
+},{
+  "_id": {
+    "$oid": "5f5eabe3f5cef979d414cfe5"
+  },
+  "tuotenumero": 0,
+  "title": "Augustson",
+  "createdAt": {
+    "$date": "2020-09-13T23:31:47.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:07:11.086Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5eab8ff5cef979d414cfe3"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "teosnimi": "Syysleikki 2",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787527"
+    }
+  ],
+  "hinta": 330,
+  "korkeus": 40,
+  "leveys": 33,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1991",
+  "vedosmaara": 99
+},{
+  "_id": {
+    "$oid": "5f5eabfff5cef979d414cfe6"
+  },
+  "tuotenumero": 0,
+  "title": "Augustson",
+  "createdAt": {
+    "$date": "2020-09-13T23:32:15.341Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:06:59.485Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5eab8ff5cef979d414cfe3"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "teosnimi": "Syysleikki 3",
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787522"
+    }
+  ],
+  "hinta": 330,
+  "korkeus": 40,
+  "leveys": 33,
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1991",
+  "vedosmaara": 99
+},{
+  "_id": {
+    "$oid": "5f7456c0465a950572a761c7"
+  },
+  "leveys": 36,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2015",
+  "korkeus": 43,
+  "teosnimi": "Satamassa",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 285,
+  "createdAt": {
+    "$date": "2020-09-30T09:58:24.301Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T09:58:24.325Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f74573e465a950572a761c8"
+  },
+  "teosnimi": "Jouhisorsa",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 99,
+  "hinta": 220,
+  "createdAt": {
+    "$date": "2020-09-30T10:00:30.170Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:09:57.241Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 32,
+  "leveys": 50,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f7457ba465a950572a761c9"
+  },
+  "teosnimi": "Tukkakoskelo",
+  "title": "Polameri",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 99,
+  "hinta": 220,
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-09-30T10:02:34.009Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:10:13.562Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 32,
+  "leveys": 50,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f745a1b465a950572a761ca"
+  },
+  "vedosmaara": 50,
+  "teosnimi": "Kuusen ystävä I",
+  "title": "Kivinen",
+  "tekniikka": "Akvatinta,mezzotinto,kuivaneula",
+  "valmistumisvuosi": "2017",
+  "korkeus": 47,
+  "leveys": 40,
+  "hinta": 340,
+  "createdAt": {
+    "$date": "2020-09-30T10:12:43.851Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:19:20.948Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f6896cae380b82d111d51f8"
+  }
+},{
+  "_id": {
+    "$oid": "5f745aae465a950572a761cb"
+  },
+  "teosnimi": "Tapetti",
+  "title": "Riippa",
+  "tekniikka": "Viivasyövytys-akvatinta",
+  "valmistumisvuosi": "2014",
+  "vedosmaara": 75,
+  "leveys": 40,
+  "korkeus": 50,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T10:15:10.238Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:19:38.216Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f5ea931f5cef979d414cfdf"
+  }
+},{
+  "_id": {
+    "$oid": "5f745b13465a950572a761cc"
+  },
+  "teosnimi": "Pienen neilikkapuun vartijat",
+  "title": "Somppi",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2018",
+  "vedosmaara": 80,
+  "leveys": 36,
+  "korkeus": 45,
+  "createdAt": {
+    "$date": "2020-09-30T10:16:51.070Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:11:34.751Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f6897d8e380b82d111d51ff"
+  },
+  "hinta": 320,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f745b99465a950572a761cd"
+  },
+  "leveys": 38,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "2015",
+  "korkeus": 52,
+  "teosnimi": "Kissakuiskaaja",
+  "tekniikka": "Etsaus-akvatinta",
+  "title": "Vuorinen",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T10:19:05.392Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:19:05.405Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745c10465a950572a761ce"
+  },
+  "leveys": 38,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "2016",
+  "korkeus": 52,
+  "teosnimi": "Pieni ikuisuus",
+  "tekniikka": "Etsaus-akvatinta",
+  "title": "Vuorinen",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T10:21:04.539Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:21:04.552Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745c4a465a950572a761cf"
+  },
+  "teosnimi": "Aurinkoinen aamu",
+  "title": "Vuorinen",
+  "valmistumisvuosi": "2018",
+  "vedosmaara": 100,
+  "leveys": 38,
+  "korkeus": 52,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T10:22:02.990Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:22:03.022Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745cb3465a950572a761d0"
+  },
+  "leveys": 41,
+  "vedosmaara": 125,
+  "valmistumisvuosi": "2015",
+  "korkeus": 47,
+  "teosnimi": "Samassa veneessä",
+  "tekniikka": "Serigrafia",
+  "title": "Bergqvist",
+  "hinta": 330,
+  "createdAt": {
+    "$date": "2020-09-30T10:23:47.452Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:23:47.463Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898c5e380b82d111d5205"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745d2e465a950572a761d1"
+  },
+  "leveys": 50,
+  "vedosmaara": 150,
+  "valmistumisvuosi": "1989",
+  "korkeus": 76,
+  "teosnimi": "La Luna",
+  "tekniikka": "Serigrafia",
+  "title": "Vuorisalo",
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T10:25:50.110Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:25:50.122Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745da6465a950572a761d2"
+  },
+  "teosnimi": "Nousujohteista",
+  "title": "Vuori",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2017",
+  "leveys": 40,
+  "korkeus": 55,
+  "hinta": 220,
+  "createdAt": {
+    "$date": "2020-09-30T10:27:50.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:27:50.995Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745df4465a950572a761d3"
+  },
+  "leveys": 45,
+  "vedosmaara": 150,
+  "valmistumisvuosi": "2009",
+  "korkeus": 55,
+  "teosnimi": "Maahanmuuttaja",
+  "tekniikka": "Serigrafia",
+  "title": "Vuori",
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T10:29:08.024Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:29:08.035Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f745fb2465a950572a761d4"
+  },
+  "leveys": 48,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2001",
+  "korkeus": 65,
+  "teosnimi": "L'arbre de vie - Elämän puu",
+  "tekniikka": "Litografia",
+  "title": "Clyv",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T10:36:34.634Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:36:34.647Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898dbe380b82d111d5206"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f746408465a950572a761d5"
+  },
+  "leveys": 38,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2002",
+  "korkeus": 47,
+  "teosnimi": "Coquille de vie - Simpukkakoti",
+  "tekniikka": "Litografia",
+  "title": "Clyv",
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-09-30T10:55:04.107Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:55:04.119Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898dbe380b82d111d5206"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f746469465a950572a761d6"
+  },
+  "leveys": 38,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2002",
+  "korkeus": 47,
+  "teosnimi": "Paysage à la coque - Kevätkoti",
+  "tekniikka": "Litografia",
+  "title": "Clyv",
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-09-30T10:56:41.792Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T10:56:41.803Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898dbe380b82d111d5206"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f746748465a950572a761d7"
+  },
+  "leveys": 146,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1990",
+  "korkeus": 57,
+  "teosnimi": "Il miracolo di Choane",
+  "tekniikka": "Litografia",
+  "title": "Väisänen",
+  "hinta": 750,
+  "createdAt": {
+    "$date": "2020-09-30T11:08:56.332Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:16:49.732Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f746a99465a950572a761d9"
+  },
+  "teosnimi": "Lammella",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 175,
+  "hinta": 285,
+  "createdAt": {
+    "$date": "2020-09-30T11:23:05.328Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:18:15.095Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2a2adb35056c78750a"
+    }
+  ],
+  "korkeus": 35,
+  "leveys": 43
+},{
+  "_id": {
+    "$oid": "5f746afd465a950572a761da"
+  },
+  "teosnimi": "Elämä jatkuu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2006",
+  "vedosmaara": 125,
+  "leveys": 28,
+  "korkeus": 34,
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T11:24:45.356Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T11:25:01.521Z"
+  },
+  "__v": 0,
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  }
+},{
+  "_id": {
+    "$oid": "5f746be5465a950572a761db"
+  },
+  "leveys": 27,
+  "vedosmaara": 225,
+  "valmistumisvuosi": "1992",
+  "korkeus": 35,
+  "teosnimi": "Käpytikka",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T11:28:37.215Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T11:28:37.226Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f746cb6465a950572a761dc"
+  },
+  "valmistumisvuosi": "1988",
+  "teosnimi": "Lapin kelo",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 29,
+  "korkeus": 34,
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T11:32:06.616Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T11:32:06.632Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f74717b465a950572a761dd"
+  },
+  "teosnimi": "Varhain aamusella",
+  "title": "Vuorinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 100,
+  "hinta": 315,
+  "createdAt": {
+    "$date": "2020-09-30T11:52:27.188Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-03T00:00:14.313Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787532"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747382465a950572a761de"
+  },
+  "teosnimi": "Ympäri käydään",
+  "title": "Vuorinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 100,
+  "hinta": 315,
+  "createdAt": {
+    "$date": "2020-09-30T12:01:06.230Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-03T00:01:53.975Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78753a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7473b5465a950572a761df"
+  },
+  "valmistumisvuosi": "2013",
+  "teosnimi": "Kristallivuori",
+  "title": "Vuorinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "vedosmaara": 100,
+  "hinta": 315,
+  "createdAt": {
+    "$date": "2020-09-30T12:01:57.575Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:39:42.582Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787529"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f7473ef465a950572a761e0"
+  },
+  "valmistumisvuosi": "2014",
+  "hinta": 320,
+  "teosnimi": "Unelmat kantavat",
+  "title": "Vuorinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "createdAt": {
+    "$date": "2020-09-30T12:02:55.106Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T23:59:11.831Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea5bd4841af799c439217"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787523"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f74750d465a950572a761e1"
+  },
+  "teosnimi": "Luominen ja kolme pylvästä",
+  "title": "Väisänen",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100,
+  "hinta": 500,
+  "createdAt": {
+    "$date": "2020-09-30T12:07:41.345Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:26:40.822Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78752d"
+    }
+  ],
+  "korkeus": 56,
+  "leveys": 73
+},{
+  "_id": {
+    "$oid": "5f747570465a950572a761e2"
+  },
+  "teosnimi": "Viisi aistia ja muisti",
+  "title": "Väisänen",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100,
+  "hinta": 500,
+  "createdAt": {
+    "$date": "2020-09-30T12:09:20.872Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:27:03.504Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2d2adb35056c787546"
+    }
+  ],
+  "korkeus": 73,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f7475a8465a950572a761e3"
+  },
+  "teosnimi": "Nimetön",
+  "title": "Väisänen",
+  "tekniikka": "Litografia",
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1990",
+  "hinta": 500,
+  "createdAt": {
+    "$date": "2020-09-30T12:10:16.862Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:27:25.990Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751b"
+    }
+  ],
+  "korkeus": 56,
+  "leveys": 73
+},{
+  "_id": {
+    "$oid": "5f74778c465a950572a761e4"
+  },
+  "teosnimi": "Kevät",
+  "title": "Koistinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 100,
+  "hinta": 400,
+  "createdAt": {
+    "$date": "2020-09-30T12:18:20.730Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:31:30.518Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689786e380b82d111d51fe"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787535"
+    }
+  ],
+  "korkeus": 48,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f7477c8465a950572a761e5"
+  },
+  "teosnimi": "Kesän kaipuu",
+  "title": "Koistinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 100,
+  "hinta": 400,
+  "createdAt": {
+    "$date": "2020-09-30T12:19:20.494Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:32:03.151Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689786e380b82d111d51fe"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787538"
+    }
+  ],
+  "korkeus": 39,
+  "leveys": 54
+},{
+  "_id": {
+    "$oid": "5f7477fa465a950572a761e6"
+  },
+  "teosnimi": "Kuutamolla",
+  "title": "Koistinen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 100,
+  "hinta": 370,
+  "createdAt": {
+    "$date": "2020-09-30T12:20:10.645Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:44:16.894Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689786e380b82d111d51fe"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787542"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f74785e465a950572a761e7"
+  },
+  "teosnimi": "Aavistuksen tavoin",
+  "title": "Kaila",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 125,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T12:21:50.324Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:38:02.889Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896afe380b82d111d51f7"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751d"
+    }
+  ],
+  "korkeus": 46,
+  "leveys": 57
+},{
+  "_id": {
+    "$oid": "5f7478f2465a950572a761e8"
+  },
+  "teosnimi": "Sinulle",
+  "title": "Kaila",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2014",
+  "vedosmaara": 125,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T12:24:18.049Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:38:22.716Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896afe380b82d111d51f7"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78752a"
+    }
+  ],
+  "korkeus": 33,
+  "leveys": 32
+},{
+  "_id": {
+    "$oid": "5f74792c465a950572a761e9"
+  },
+  "teosnimi": "Vanamotyttö",
+  "title": "Kaila",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2008",
+  "vedosmaara": 195,
+  "hinta": 250,
+  "createdAt": {
+    "$date": "2020-09-30T12:25:16.568Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:39:29.214Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896afe380b82d111d51f7"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787516"
+    }
+  ],
+  "korkeus": 30,
+  "leveys": 24
+},{
+  "_id": {
+    "$oid": "5f747963465a950572a761ea"
+  },
+  "teosnimi": "Gabriel",
+  "title": "Kaila",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2009",
+  "vedosmaara": 195,
+  "hinta": 340,
+  "createdAt": {
+    "$date": "2020-09-30T12:26:11.217Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:39:59.611Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896afe380b82d111d51f7"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787539"
+    }
+  ],
+  "korkeus": 46,
+  "leveys": 57
+},{
+  "_id": {
+    "$oid": "5f7479b4465a950572a761eb"
+  },
+  "teosnimi": "Vivace",
+  "title": "Sirviö",
+  "tekniikka": "Kivilitografia",
+  "valmistumisvuosi": "2010",
+  "vedosmaara": 75,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:27:32.972Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:43:23.286Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896e5e380b82d111d51f9"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2d2adb35056c787547"
+    }
+  ],
+  "korkeus": 49,
+  "leveys": 53
+},{
+  "_id": {
+    "$oid": "5f7479e6465a950572a761ec"
+  },
+  "teosnimi": "Aamuun avautuvat",
+  "title": "Sirviö",
+  "tekniikka": "Kivilitografia",
+  "valmistumisvuosi": "2010",
+  "vedosmaara": 50,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:28:22.245Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T12:13:12.693Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896e5e380b82d111d51f9"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2a2adb35056c78750b"
+    }
+  ],
+  "korkeus": 40,
+  "leveys": 55
+},{
+  "_id": {
+    "$oid": "5f747a45465a950572a761ed"
+  },
+  "teosnimi": "Kuraattorin virka",
+  "title": "Stenvall",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2008",
+  "vedosmaara": 195,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:29:57.561Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:46:15.335Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897ebe380b82d111d5200"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787520"
+    }
+  ],
+  "korkeus": 50,
+  "leveys": 65
+},{
+  "_id": {
+    "$oid": "5f747a89465a950572a761ee"
+  },
+  "teosnimi": "Olemisen keveys",
+  "title": "Stenvall",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2009",
+  "vedosmaara": 195,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:31:05.587Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T22:40:58.377Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897ebe380b82d111d5200"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747ab7465a950572a761ef"
+  },
+  "teosnimi": "Helene",
+  "title": "Stenvall",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 195,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:31:51.404Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:28:25.343Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897ebe380b82d111d5200"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78752c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747b87465a950572a761f0"
+  },
+  "teosnimi": "Iso puku",
+  "title": "Stenvall",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2002",
+  "vedosmaara": 195,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-09-30T12:35:19.068Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:34:37.893Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897ebe380b82d111d5200"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2b2adb35056c78750f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747bd4465a950572a761f1"
+  },
+  "teosnimi": "Mikael",
+  "title": "Lavonen",
+  "tekniikka": "Kivilitografia",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 60,
+  "hinta": 900,
+  "createdAt": {
+    "$date": "2020-09-30T12:36:36.040Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T22:23:06.264Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f7236706ed38803f5d48672"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787515"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747c22465a950572a761f2"
+  },
+  "teosnimi": "Al Ghazali",
+  "title": "Lavonen",
+  "tekniikka": "Kivilitografia",
+  "valmistumisvuosi": "2009",
+  "vedosmaara": 60,
+  "hinta": 360,
+  "createdAt": {
+    "$date": "2020-09-30T12:37:54.501Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T22:08:00.584Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f7236706ed38803f5d48672"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787521"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747c78465a950572a761f3"
+  },
+  "teosnimi": "Runottaret I",
+  "title": "Airikkala",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2005",
+  "vedosmaara": 195,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-09-30T12:39:20.305Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:48:28.503Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689914e380b82d111d5209"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78753e"
+    }
+  ],
+  "korkeus": 38,
+  "leveys": 29
+},{
+  "_id": {
+    "$oid": "5f747c9f465a950572a761f4"
+  },
+  "teosnimi": "Runottaret II",
+  "title": "Airikkala",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2005",
+  "vedosmaara": 195,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-09-30T12:39:59.732Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T09:34:32.793Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689914e380b82d111d5209"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [],
+  "korkeus": 38,
+  "leveys": 29
+},{
+  "_id": {
+    "$oid": "5f747cf4465a950572a761f5"
+  },
+  "teosnimi": "Poem",
+  "title": "Mughal",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2008",
+  "vedosmaara": 100,
+  "hinta": 290,
+  "createdAt": {
+    "$date": "2020-09-30T12:41:24.379Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T22:58:38.328Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f72374c6ed38803f5d48673"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787512"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f747d3c465a950572a761f6"
+  },
+  "teosnimi": "Samaa unta",
+  "title": "Bergqvist",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2007",
+  "vedosmaara": 195,
+  "hinta": 330,
+  "createdAt": {
+    "$date": "2020-09-30T12:42:36.472Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T10:50:35.597Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898c5e380b82d111d5205"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2d2adb35056c787545"
+    }
+  ],
+  "korkeus": 50,
+  "leveys": 63
+},{
+  "_id": {
+    "$oid": "5f747d92465a950572a761f7"
+  },
+  "teosnimi": "Seireeni",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 75,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T12:44:02.388Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:01:24.350Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751c"
+    }
+  ],
+  "korkeus": 54,
+  "leveys": 41
+},{
+  "_id": {
+    "$oid": "5f747dec465a950572a761f8"
+  },
+  "teosnimi": "Liekki",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2011",
+  "vedosmaara": 100,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T12:45:32.904Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:01:48.404Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2b2adb35056c78750d"
+    }
+  ],
+  "korkeus": 58,
+  "leveys": 45
+},{
+  "_id": {
+    "$oid": "5f747e1f465a950572a761f9"
+  },
+  "teosnimi": "Onnellinen prinssi",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2001",
+  "vedosmaara": 125,
+  "hinta": 240,
+  "createdAt": {
+    "$date": "2020-09-30T12:46:23.789Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:02:07.173Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78753c"
+    }
+  ],
+  "korkeus": 55,
+  "leveys": 41
+},{
+  "_id": {
+    "$oid": "5f747e52465a950572a761fa"
+  },
+  "teosnimi": "Balladi",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1999",
+  "vedosmaara": 125,
+  "hinta": 240,
+  "createdAt": {
+    "$date": "2020-09-30T12:47:14.492Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:02:30.147Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787517"
+    }
+  ],
+  "korkeus": 60,
+  "leveys": 46
+},{
+  "_id": {
+    "$oid": "5f747f4f465a950572a761fc"
+  },
+  "teosnimi": "Albatrossi",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2005",
+  "vedosmaara": 75,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T12:51:27.927Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:02:47.180Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787530"
+    }
+  ],
+  "korkeus": 70,
+  "leveys": 50
+},{
+  "_id": {
+    "$oid": "5f747f97465a950572a761fd"
+  },
+  "teosnimi": "Moulin rouge I",
+  "title": "Vuorisalo",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T12:52:39.183Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:03:20.258Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751e"
+    }
+  ],
+  "korkeus": 75,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f747fed465a950572a761fe"
+  },
+  "teosnimi": "Moulin rouge II",
+  "title": "Vuorisalo",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T12:54:05.274Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:03:31.012Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787510"
+    }
+  ],
+  "korkeus": 75,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f748021465a950572a761ff"
+  },
+  "teosnimi": "Notre Dame I",
+  "title": "Vuorisalo",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T12:54:57.403Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:03:40.943Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787543"
+    }
+  ],
+  "korkeus": 75,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f748048465a950572a76200"
+  },
+  "teosnimi": "Notre Dame II",
+  "title": "Vuorisalo",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T12:55:36.524Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:03:52.168Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787537"
+    }
+  ],
+  "korkeus": 75,
+  "leveys": 56
+},{
+  "_id": {
+    "$oid": "5f748091465a950572a76201"
+  },
+  "teosnimi": "Hiirenvirna",
+  "title": "Vuorisalo",
+  "tekniikka": "Serigrafia",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T12:56:49.667Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:04:14.569Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6898f2e380b82d111d5207"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 46,
+  "leveys": 59,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748132465a950572a76202"
+  },
+  "teosnimi": "Original swing",
+  "title": "Vuori",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1999",
+  "vedosmaara": 150,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T12:59:30.524Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:27:21.801Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78753d"
+    }
+  ],
+  "korkeus": 50,
+  "leveys": 37
+},{
+  "_id": {
+    "$oid": "5f74815f465a950572a76203"
+  },
+  "teosnimi": "Satumaa",
+  "title": "Vuori",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 195,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T13:00:15.603Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:29:32.084Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787531"
+    }
+  ],
+  "korkeus": 56,
+  "leveys": 43
+},{
+  "_id": {
+    "$oid": "5f7481bc465a950572a76204"
+  },
+  "teosnimi": "Goljatti",
+  "title": "Vuori",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2016",
+  "vedosmaara": 150,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T13:01:48.175Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:30:52.365Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689902e380b82d111d5208"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 45,
+  "leveys": 55,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748227465a950572a76205"
+  },
+  "teosnimi": "Aprikoosisadon vartijat",
+  "title": "Somppi",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 125,
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-09-30T13:03:35.248Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:33:47.363Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897d8e380b82d111d51ff"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78751f"
+    }
+  ],
+  "korkeus": 65,
+  "leveys": 48
+},{
+  "_id": {
+    "$oid": "5f7482ac465a950572a76206"
+  },
+  "teosnimi": "Tiger",
+  "title": "Bremer",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 100,
+  "hinta": 280,
+  "createdAt": {
+    "$date": "2020-09-30T13:05:48.850Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T23:57:40.645Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f7238f16ed38803f5d48674"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c78752e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f748330465a950572a76207"
+  },
+  "teosnimi": "Hiljaiseloa",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2099",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:08:00.306Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:52:14.038Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787524"
+    }
+  ],
+  "korkeus": 44,
+  "leveys": 55
+},{
+  "_id": {
+    "$oid": "5f74836f465a950572a76208"
+  },
+  "teosnimi": "Talvipäivän seisaus",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:09:03.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:52:52.260Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787540"
+    }
+  ],
+  "korkeus": 50,
+  "leveys": 57
+},{
+  "_id": {
+    "$oid": "5f7486c7465a950572a7620a"
+  },
+  "teosnimi": "Tauko",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 175,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T13:23:19.357Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:53:40.342Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "tuotenumero": -2,
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787528"
+    }
+  ],
+  "korkeus": 37,
+  "leveys": 33
+},{
+  "_id": {
+    "$oid": "5f7486fe465a950572a7620b"
+  },
+  "teosnimi": "Löytö",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 175,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T13:24:14.332Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:53:58.519Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2b2adb35056c78750e"
+    }
+  ],
+  "korkeus": 37,
+  "leveys": 33
+},{
+  "_id": {
+    "$oid": "5f748741465a950572a7620c"
+  },
+  "teosnimi": "Suojassa",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:25:21.978Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T11:58:15.240Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787534"
+    }
+  ],
+  "korkeus": 49,
+  "leveys": 50
+},{
+  "_id": {
+    "$oid": "5f748768465a950572a7620d"
+  },
+  "teosnimi": "Luminen metsä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:26:00.904Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:08:39.090Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787536"
+    }
+  ],
+  "korkeus": 45,
+  "leveys": 54
+},{
+  "_id": {
+    "$oid": "5f7487bc465a950572a7620e"
+  },
+  "teosnimi": "Usva nousee",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2014",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:27:24.441Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:09:36.909Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 47,
+  "leveys": 56,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f74881d465a950572a7620f"
+  },
+  "teosnimi": "Luodolla",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:29:01.368Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:11:15.370Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787514"
+    }
+  ],
+  "korkeus": 61,
+  "leveys": 50
+},{
+  "_id": {
+    "$oid": "5f74885d465a950572a76210"
+  },
+  "teosnimi": "Hiljaiseloa",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2009",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:30:05.221Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:11:58.555Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 44,
+  "leveys": 55,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f7488cc465a950572a76211"
+  },
+  "teosnimi": "Sieniasetelma",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-09-30T13:31:56.347Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T14:02:47.608Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 63,
+  "leveys": 48
+},{
+  "_id": {
+    "$oid": "5f748928465a950572a76212"
+  },
+  "teosnimi": "Kalapöytä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1989",
+  "vedosmaara": 150,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-09-30T13:33:28.390Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T14:03:37.188Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 63,
+  "leveys": 48
+},{
+  "_id": {
+    "$oid": "5f7489d3465a950572a76214"
+  },
+  "teosnimi": "Talven taikaa",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2007",
+  "vedosmaara": 175,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:36:19.266Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T14:01:55.325Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 57,
+  "leveys": 46
+},{
+  "_id": {
+    "$oid": "5f748a1c465a950572a76215"
+  },
+  "teosnimi": "Pieni käpy",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T13:37:32.432Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T13:37:32.444Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f748a5a465a950572a76216"
+  },
+  "teosnimi": "Metsäkana",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-09-30T13:38:34.084Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:16:12.951Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 32,
+  "leveys": 28,
+  "valmistumisvuosi": "1990",
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748ae7465a950572a76217"
+  },
+  "teosnimi": "Kevätpuu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T13:40:55.218Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:16:47.210Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 38,
+  "leveys": 32,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748b09465a950572a76218"
+  },
+  "teosnimi": "Kesäpuu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T13:41:29.141Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:17:25.075Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 38,
+  "leveys": 32,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748b25465a950572a76219"
+  },
+  "teosnimi": "Syyspuu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-09-30T13:41:57.881Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:17:36.633Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 38,
+  "leveys": 32,
+  "nayttokuva": []
+},{
+  "_id": {
+    "$oid": "5f748d30465a950572a7621a"
+  },
+  "leveys": 28,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2006",
+  "korkeus": 34,
+  "teosnimi": "Tuulen viemää",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-09-30T13:50:40.892Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T13:50:40.909Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f748d79465a950572a7621b"
+  },
+  "teosnimi": "Jano",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1999",
+  "vedosmaara": 175,
+  "hinta": 270,
+  "createdAt": {
+    "$date": "2020-09-30T13:51:53.980Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T13:58:38.434Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 38,
+  "leveys": 34
+},{
+  "_id": {
+    "$oid": "5f748e19465a950572a7621c"
+  },
+  "teosnimi": "Veneellä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1987",
+  "hinta": 100,
+  "leveys": 63,
+  "korkeus": 23,
+  "createdAt": {
+    "$date": "2020-09-30T13:54:33.090Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T13:54:33.101Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f748e9e465a950572a7621d"
+  },
+  "leveys": 57,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2004",
+  "korkeus": 48,
+  "teosnimi": "Kallioranta",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T13:56:46.363Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T13:56:46.373Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7490d7465a950572a7621e"
+  },
+  "leveys": 60,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2008",
+  "korkeus": 50,
+  "teosnimi": "Hämärän hetki",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T14:06:15.606Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T14:06:15.624Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f749134465a950572a7621f"
+  },
+  "leveys": 58,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2009",
+  "korkeus": 48,
+  "teosnimi": "Villihanhet",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-09-30T14:07:48.359Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-30T14:07:48.370Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75ab952adb35056c7874e4"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787526"
+    }
+  ],
+  "teosnimi": "Uimakivellä",
+  "title": "Kivinen",
+  "tekniikka": "Akvatinta,mezzotinto,kuivaneula",
+  "valmistumisvuosi": "2013",
+  "vedosmaara": 50,
+  "hinta": 340,
+  "createdAt": {
+    "$date": "2020-10-01T10:12:37.092Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:21:16.339Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6896cae380b82d111d51f8"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 42,
+  "leveys": 37
+},{
+  "_id": {
+    "$oid": "5f75ac522adb35056c7874e5"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kesäillan valssi",
+  "title": "Riippa",
+  "tekniikka": "Viivasyövytys-akvatinta",
+  "valmistumisvuosi": "2015",
+  "vedosmaara": 75,
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-10-01T10:15:46.954Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:22:32.388Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f5ea931f5cef979d414cfdf"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 40,
+  "leveys": 54
+},{
+  "_id": {
+    "$oid": "5f75ae372adb35056c7874e6"
+  },
+  "nayttokuva": [],
+  "leveys": 51,
+  "vedosmaara": 75,
+  "valmistumisvuosi": "2010",
+  "korkeus": 36,
+  "teosnimi": "Huvimaja",
+  "tekniikka": "Etsaus-akvatinta",
+  "title": "Kontiainen",
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T10:23:51.989Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:23:52.004Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689845e380b82d111d5203"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b2142adb35056c7874e7"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Ulos aurinkoon",
+  "title": "Lappalainen",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1992",
+  "leveys": 65,
+  "korkeus": 50,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-01T10:40:20.925Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:40:20.938Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b2562adb35056c7874e8"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Illan tullen",
+  "title": "Lappalainen",
+  "tekniikka": "Serigrafia",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-01T10:41:26.858Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:41:26.869Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b2b32adb35056c7874e9"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Ilo",
+  "title": "Lappalainen",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2004",
+  "leveys": 57,
+  "korkeus": 38,
+  "hinta": 220,
+  "createdAt": {
+    "$date": "2020-10-01T10:42:59.907Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:42:59.920Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b3142adb35056c7874ea"
+  },
+  "nayttokuva": [],
+  "leveys": 40,
+  "vedosmaara": 170,
+  "valmistumisvuosi": "1997",
+  "korkeus": 31,
+  "teosnimi": "Auringonlaskun aikaan",
+  "tekniikka": "Serigrafia",
+  "title": "Lappalainen",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-10-01T10:44:36.656Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:44:36.667Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b3502adb35056c7874eb"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Jeu du soleil",
+  "title": "Lappalainen",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2005",
+  "leveys": 40,
+  "korkeus": 31,
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-10-01T10:45:36.184Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:45:36.205Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689926e380b82d111d520a"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b53a2adb35056c7874ec"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Figuuri XII",
+  "title": "Laine",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2014",
+  "leveys": 50,
+  "korkeus": 65,
+  "hinta": 400,
+  "createdAt": {
+    "$date": "2020-10-01T10:53:46.289Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:53:46.300Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b5cf2adb35056c7874ed"
+  },
+  "nayttokuva": [],
+  "leveys": 21,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "2004",
+  "korkeus": 30,
+  "teosnimi": "Asetelma",
+  "tekniikka": "Serigrafia",
+  "title": "Laine",
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T10:56:15.573Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T10:56:15.585Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b8702adb35056c7874ee"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Pieni soittaja III",
+  "title": "Laine",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2017",
+  "leveys": 20,
+  "korkeus": 26,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-01T11:07:28.903Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:07:28.914Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b8aa2adb35056c7874ef"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Pieni soittaja IV",
+  "title": "Laine",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2017",
+  "leveys": 20,
+  "korkeus": 26,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-01T11:08:26.379Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:08:26.390Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b8dd2adb35056c7874f0"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Pieni soittaja V",
+  "title": "Laine",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2017",
+  "leveys": 20,
+  "korkeus": 26,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-01T11:09:17.094Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:09:17.108Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689937e380b82d111d520b"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b9882adb35056c7874f1"
+  },
+  "nayttokuva": [],
+  "leveys": 21,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "2002",
+  "korkeus": 27,
+  "teosnimi": "Kompositio I",
+  "tekniikka": "Serigrafia",
+  "title": "Blomstedt",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-01T11:12:08.219Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:12:08.231Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689947e380b82d111d520c"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75b9c32adb35056c7874f2"
+  },
+  "nayttokuva": [],
+  "leveys": 11,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1998",
+  "korkeus": 15,
+  "teosnimi": "Kompositio II",
+  "tekniikka": "Serigrafia",
+  "title": "Blomstedt",
+  "hinta": 250,
+  "createdAt": {
+    "$date": "2020-10-01T11:13:07.234Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:13:07.246Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689947e380b82d111d520c"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75ba292adb35056c7874f3"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Alexandra Simbergin talvipuku",
+  "title": "Neuvonen",
+  "tekniikka": "Etsaus-akvatinta",
+  "valmistumisvuosi": "1993",
+  "vedosmaara": 90,
+  "hinta": 450,
+  "createdAt": {
+    "$date": "2020-10-01T11:14:49.569Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:14:49.581Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689959e380b82d111d520d"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bb052adb35056c7874f4"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kaksi vanhaa pihlajaa",
+  "title": "Väisänen",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "1990",
+  "vedosmaara": 100,
+  "hinta": 700,
+  "createdAt": {
+    "$date": "2020-10-01T11:18:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:18:29.944Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68996ee380b82d111d520e"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bcad2adb35056c7874f5"
+  },
+  "nayttokuva": [],
+  "leveys": 75,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1989",
+  "korkeus": 59,
+  "teosnimi": "Hüpe-Hyppy",
+  "tekniikka": "Serigrafia",
+  "title": "Juurak",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-10-01T11:25:33.478Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:25:33.490Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689996e380b82d111d5210"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bd1e2adb35056c7874f6"
+  },
+  "nayttokuva": [],
+  "leveys": 75,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1989",
+  "korkeus": 59,
+  "teosnimi": "Koonus-Kartio",
+  "tekniikka": "Serigrafia",
+  "title": "Juurak",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-10-01T11:27:26.447Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:27:26.460Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689996e380b82d111d5210"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bdaa2adb35056c7874f7"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Susi",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:29:46.576Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:29:46.588Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bdca2adb35056c7874f8"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Hirvi",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:30:18.560Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:30:18.570Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bdf62adb35056c7874f9"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kuollut lintu",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:31:02.069Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:31:02.082Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75be162adb35056c7874fa"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Pöllo ja hiiri",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:31:34.092Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:31:34.105Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75be452adb35056c7874fb"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Metsälampi",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:32:21.694Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:32:21.706Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75be752adb35056c7874fc"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Iso pöllö",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:33:09.157Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:33:09.169Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bea42adb35056c7874fd"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kaksi pöllöä",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:33:56.482Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:33:56.494Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bec32adb35056c7874fe"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kaksi palloa",
+  "title": "Huhtanen",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-01T11:34:27.726Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:34:27.736Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899b2e380b82d111d5211"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75bf4a2adb35056c7874ff"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Venevaja",
+  "title": "Kiippa",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1993",
+  "leveys": 65,
+  "korkeus": 50,
+  "hinta": 250,
+  "createdAt": {
+    "$date": "2020-10-01T11:36:42.353Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:36:42.376Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6899f6e380b82d111d5212"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c1b82adb35056c787500"
+  },
+  "nayttokuva": [],
+  "leveys": 62,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1989",
+  "korkeus": 77,
+  "teosnimi": "Terra Nova I",
+  "tekniikka": "Serigrafia",
+  "title": "Soisalo",
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-10-01T11:47:04.605Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:47:04.617Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a0de380b82d111d5213"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c1f32adb35056c787501"
+  },
+  "nayttokuva": [],
+  "leveys": 63,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1989",
+  "korkeus": 91,
+  "teosnimi": "Terra Nova II",
+  "tekniikka": "Serigrafia",
+  "title": "Soisalo",
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-10-01T11:48:03.467Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:48:03.479Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a0de380b82d111d5213"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c26a2adb35056c787502"
+  },
+  "nayttokuva": [],
+  "leveys": 61,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1990",
+  "korkeus": 73,
+  "teosnimi": "Eilisen tulevaisuus ",
+  "tekniikka": "Serigrafia",
+  "title": "Soisalo",
+  "hinta": 380,
+  "createdAt": {
+    "$date": "2020-10-01T11:50:02.398Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:50:02.414Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a0de380b82d111d5213"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c2d22adb35056c787503"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Sinisade",
+  "title": "Para",
+  "tekniikka": "Serigrafia",
+  "vedosmaara": 175,
+  "leveys": 32,
+  "korkeus": 48,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T11:51:46.035Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:51:46.049Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a22e380b82d111d5214"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c3f92adb35056c787504"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Opaline II",
+  "title": "Dumontet",
+  "tekniikka": "Serigrafia",
+  "vedosmaara": 175,
+  "leveys": 65,
+  "korkeus": 50,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T11:56:41.662Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:56:41.673Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a36e380b82d111d5215"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c4302adb35056c787505"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Coquillage II",
+  "title": "Dumontet",
+  "tekniikka": "Serigrafia",
+  "vedosmaara": 175,
+  "leveys": 50,
+  "korkeus": 65,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T11:57:36.642Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:57:36.655Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a36e380b82d111d5215"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c4672adb35056c787506"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Eventail",
+  "title": "Dumontet",
+  "tekniikka": "Serigrafia",
+  "vedosmaara": 175,
+  "leveys": 50,
+  "korkeus": 66,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T11:58:31.547Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-01T11:58:31.559Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689a36e380b82d111d5215"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f75c4d52adb35056c787507"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Passion",
+  "title": "Marmonnier",
+  "tekniikka": "Etsaus",
+  "vedosmaara": 30,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T12:00:21.373Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:32:24.490Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68976ae380b82d111d51fd"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 50,
+  "leveys": 39
+},{
+  "_id": {
+    "$oid": "5f75c52e2adb35056c787508"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Cathedrale",
+  "title": "Marmonnier",
+  "tekniikka": "Etsaus",
+  "vedosmaara": 30,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T12:01:50.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:32:35.667Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68976ae380b82d111d51fd"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 50,
+  "leveys": 39
+},{
+  "_id": {
+    "$oid": "5f75c5532adb35056c787509"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Offrande",
+  "title": "Marmonnier",
+  "tekniikka": "Etsaus",
+  "vedosmaara": 20,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-01T12:02:27.463Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:32:45.069Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68976ae380b82d111d51fd"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "korkeus": 50,
+  "leveys": 39
+},{
+  "_id": {
+    "$oid": "5f7717f52adb35056c78755d"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787511"
+    }
+  ],
+  "teosnimi": "Alla tähtien",
+  "title": "Koivikko",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "2012",
+  "vedosmaara": 180,
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-02T12:07:17.290Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:25:38.745Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f77183e2adb35056c78755e"
+  },
+  "nayttokuva": [],
+  "leveys": 52,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2016",
+  "korkeus": 43,
+  "teosnimi": "Kouluaamu",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T12:08:30.426Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:08:30.445Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7718ce2adb35056c78755f"
+  },
+  "nayttokuva": [],
+  "leveys": 42,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2015",
+  "korkeus": 53,
+  "teosnimi": "Iltarusko",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T12:10:54.244Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:10:54.259Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7719172adb35056c787560"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2c2adb35056c787518"
+    }
+  ],
+  "leveys": 55,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2011",
+  "korkeus": 43,
+  "teosnimi": "Hyvä lähestyminen",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 330,
+  "createdAt": {
+    "$date": "2020-10-02T12:12:07.245Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T21:52:52.803Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f7719592adb35056c787561"
+  },
+  "nayttokuva": [],
+  "leveys": 40,
+  "vedosmaara": 170,
+  "valmistumisvuosi": "2007",
+  "korkeus": 49,
+  "teosnimi": "Tähtisadetta",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T12:13:13.232Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:13:13.245Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f771a102adb35056c787562"
+  },
+  "nayttokuva": [],
+  "leveys": 45,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2018",
+  "korkeus": 58,
+  "teosnimi": "Lyhteellä",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T12:16:16.227Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:16:16.241Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f771a532adb35056c787563"
+  },
+  "nayttokuva": [],
+  "leveys": 42,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2014",
+  "korkeus": 53,
+  "teosnimi": "Lumilyhdyllä",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T12:17:23.202Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:17:23.214Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f771aa82adb35056c787564"
+  },
+  "nayttokuva": [],
+  "leveys": 30,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "1999",
+  "korkeus": 40,
+  "teosnimi": "Draiveripoika",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-02T12:18:48.875Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:18:48.887Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f771ae52adb35056c787565"
+  },
+  "nayttokuva": [],
+  "leveys": 35,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2015",
+  "korkeus": 46,
+  "teosnimi": "Alla lyhdyn",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-02T12:19:49.031Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:19:49.044Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f771b1c2adb35056c787566"
+  },
+  "nayttokuva": [],
+  "leveys": 35,
+  "vedosmaara": 180,
+  "valmistumisvuosi": "2015",
+  "korkeus": 46,
+  "teosnimi": "Kesäyössä",
+  "tekniikka": "Serigrafia",
+  "title": "Koivikko",
+  "hinta": 300,
+  "createdAt": {
+    "$date": "2020-10-02T12:20:44.922Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T12:20:44.932Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f689985e380b82d111d520f"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f779cbb2adb35056c78756c"
+  },
+  "nayttokuva": [],
+  "leveys": 27,
+  "vedosmaara": 150,
+  "valmistumisvuosi": "2011",
+  "korkeus": 39,
+  "teosnimi": "Iltapäivällä",
+  "tekniikka": "Serigrafia",
+  "title": "Tamminen",
+  "hinta": 320,
+  "createdAt": {
+    "$date": "2020-10-02T21:33:47.414Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-17T09:37:52.527Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f7239576ed38803f5d48675"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f77a30e2adb35056c787577"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f764a2a2adb35056c78750c"
+    }
+  ],
+  "leveys": 40,
+  "vedosmaara": 100,
+  "valmistumisvuosi": "2010",
+  "korkeus": 56,
+  "teosnimi": "Lotus",
+  "tekniikka": "Litografia",
+  "title": "Mikkonen",
+  "hinta": 440,
+  "createdAt": {
+    "$date": "2020-10-02T22:00:46.489Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-02T22:00:46.518Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897fde380b82d111d5201"
+  },
+  "created_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  },
+  "updated_by": {
+    "$oid": "5f5e939f267b3176509901b3"
+  }
+},{
+  "_id": {
+    "$oid": "5f7afc4c2adb35056c787599"
+  },
+  "nayttokuva": [],
+  "leveys": 30,
+  "vedosmaara": 75,
+  "valmistumisvuosi": "2013",
+  "korkeus": 35,
+  "teosnimi": "Huokauksien kaupunki",
+  "tekniikka": "Serigrafia",
+  "title": "Woods",
+  "hinta": 140,
+  "createdAt": {
+    "$date": "2020-10-05T10:58:20.632Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T10:58:20.651Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f7afb532adb35056c787598"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7afeea2adb35056c78759a"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Sininen lintu",
+  "title": "Mikkonen",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "2003",
+  "vedosmaara": 30,
+  "createdAt": {
+    "$date": "2020-10-05T11:09:30.966Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-07T13:35:41.173Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897fde380b82d111d5201"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "hinta": 600
+},{
+  "_id": {
+    "$oid": "5f7affc22adb35056c78759b"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lily",
+  "title": "Mikkonen",
+  "tekniikka": "Litografia",
+  "valmistumisvuosi": "2008",
+  "vedosmaara": 100,
+  "hinta": 440,
+  "createdAt": {
+    "$date": "2020-10-05T11:13:06.645Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-05T11:13:06.657Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f6897fde380b82d111d5201"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7eef3a2adb35056c78759c"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Puu - kevät",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "leveys": 32,
+  "korkeus": 38,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-10-08T10:51:38.052Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:51:38.068Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7eef642adb35056c78759d"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Puu - kesä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "leveys": 32,
+  "korkeus": 38,
+  "hinta": 350,
+  "createdAt": {
+    "$date": "2020-10-08T10:52:20.537Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:52:20.550Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7eef8d2adb35056c78759e"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Puu - syksy",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1988",
+  "leveys": 32,
+  "korkeus": 38,
+  "createdAt": {
+    "$date": "2020-10-08T10:53:01.267Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:53:01.281Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef0452adb35056c78759f"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Iso metsälintu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1990",
+  "leveys": 45,
+  "korkeus": 32,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T10:56:05.076Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:56:05.092Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef08f2adb35056c7875a0"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lapin erämaja",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T10:57:19.203Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:57:19.216Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef0b52adb35056c7875a1"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Teeri / Riekko",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "createdAt": {
+    "$date": "2020-10-08T10:57:57.610Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:57:57.622Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef0fb2adb35056c7875a2"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Perhonen",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1992",
+  "leveys": 26,
+  "korkeus": 35,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T10:59:07.704Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:59:07.715Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef1222adb35056c7875a3"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Talitintti",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 21,
+  "korkeus": 30,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T10:59:46.511Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T10:59:46.527Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef1482adb35056c7875a4"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kuikka",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 50,
+  "korkeus": 35,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:00:24.574Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:00:24.586Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef1b72adb35056c7875a5"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lapin pöllö",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1987",
+  "leveys": 32,
+  "korkeus": 43,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:02:15.651Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:02:15.663Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef2172adb35056c7875a6"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Nokipannukahvi",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1987",
+  "leveys": 46,
+  "korkeus": 34,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:03:51.111Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:03:51.130Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef25e2adb35056c7875a7"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Silkkiuikku",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1990",
+  "leveys": 50,
+  "korkeus": 35,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:05:02.689Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:05:02.702Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef2a82adb35056c7875a8"
+  },
+  "nayttokuva": [],
+  "leveys": 54,
+  "vedosmaara": 175,
+  "valmistumisvuosi": "2005",
+  "korkeus": 50,
+  "teosnimi": "Omenapuun alla",
+  "tekniikka": "Serigrafia",
+  "title": "Polameri",
+  "hinta": 180,
+  "createdAt": {
+    "$date": "2020-10-08T11:06:16.988Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:06:17.001Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef2f42adb35056c7875a9"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Erämaa - lintu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1990",
+  "leveys": 45,
+  "korkeus": 32,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:07:32.336Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:07:32.348Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef3cc2adb35056c7875aa"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Sorsahoukutin",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1991",
+  "leveys": 57,
+  "korkeus": 43,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:11:08.721Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:11:08.732Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef3fb2adb35056c7875ab"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Sorsahoukutin tekstillä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1991",
+  "leveys": 33,
+  "korkeus": 61,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:11:55.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:11:55.403Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef4352adb35056c7875ac"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Jyrkänne",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1989",
+  "leveys": 63,
+  "korkeus": 48,
+  "hinta": 200,
+  "createdAt": {
+    "$date": "2020-10-08T11:12:53.383Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:12:53.408Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef48a2adb35056c7875ad"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lapin sininen hetki",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1981",
+  "leveys": 58,
+  "korkeus": 43,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:14:18.118Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:14:18.129Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef4c12adb35056c7875ae"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Erämaalatu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 63,
+  "korkeus": 48,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:15:13.927Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:15:13.938Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef5032adb35056c7875af"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Ladolla",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 63,
+  "korkeus": 48,
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-08T11:16:19.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:16:19.786Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef5402adb35056c7875b0"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Pilkillä",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "hinta": 100,
+  "createdAt": {
+    "$date": "2020-10-08T11:17:20.023Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:17:20.036Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef5722adb35056c7875b1"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Hirvet",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "valmistumisvuosi": "1995",
+  "leveys": 65,
+  "korkeus": 52,
+  "hinta": 100,
+  "createdAt": {
+    "$date": "2020-10-08T11:18:10.939Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:18:10.951Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef5d92adb35056c7875b2"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kissa (pieni)",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 18,
+  "korkeus": 19,
+  "hinta": 60,
+  "createdAt": {
+    "$date": "2020-10-08T11:19:53.813Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:19:53.825Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef7ae2adb35056c7875b3"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lintu (pieni)",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 18,
+  "korkeus": 19,
+  "hinta": 60,
+  "createdAt": {
+    "$date": "2020-10-08T11:27:42.835Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:27:42.850Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef7fa2adb35056c7875b4"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kukka (pieni)",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 18,
+  "korkeus": 19,
+  "hinta": 60,
+  "createdAt": {
+    "$date": "2020-10-08T11:28:58.989Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:28:59.001Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef8262adb35056c7875b5"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Käpy (pieni)",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 18,
+  "korkeus": 19,
+  "hinta": 60,
+  "createdAt": {
+    "$date": "2020-10-08T11:29:42.936Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:29:42.947Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef8582adb35056c7875b6"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Kaksi lintua",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 24,
+  "korkeus": 24,
+  "createdAt": {
+    "$date": "2020-10-08T11:30:32.584Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:30:32.596Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef9552adb35056c7875b7"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Lintuemo poikasineen",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "leveys": 32,
+  "korkeus": 37,
+  "createdAt": {
+    "$date": "2020-10-08T11:34:45.221Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:34:45.233Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f7ef9bb2adb35056c7875b8"
+  },
+  "nayttokuva": [],
+  "teosnimi": "Keltasilmäinen lintu",
+  "tekniikka": "Serigrafia",
+  "leveys": 32,
+  "korkeus": 37,
+  "createdAt": {
+    "$date": "2020-10-08T11:36:27.287Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-08T11:36:27.298Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+},{
+  "_id": {
+    "$oid": "5f86ecc62adb35056c7875be"
+  },
+  "nayttokuva": [
+    {
+      "$oid": "5f86ebb42adb35056c7875bd"
+    }
+  ],
+  "teosnimi": "Viekas lintu",
+  "title": "Polameri",
+  "tekniikka": "Serigrafia",
+  "hinta": 150,
+  "createdAt": {
+    "$date": "2020-10-14T12:19:18.030Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-14T12:19:18.057Z"
+  },
+  "__v": 0,
+  "Taiteilija": {
+    "$oid": "5f68967ae380b82d111d51f6"
+  },
+  "created_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  },
+  "updated_by": {
+    "$oid": "5f688f48e380b82d111d51f5"
+  }
+}]
